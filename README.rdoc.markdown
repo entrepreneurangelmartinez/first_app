@@ -1,5 +1,6 @@
 == README
-
+Portfolio: ISC. Angel Jesús Martínez Frías
+First App on Runy on Rails from PLURALSIGHT GET STARTED
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
